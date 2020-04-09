@@ -1,0 +1,7 @@
+
+__pycache__
+/.vscode
+*.pyc
+/.gitmodules
+/*/__pycache__
+
